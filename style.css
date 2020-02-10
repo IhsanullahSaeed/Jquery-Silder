@@ -1,0 +1,19 @@
+body {
+  width: 960px;
+  margin: auto;
+  text-align: center;
+}
+.slider ul li {
+  list-style: none;
+}
+#prev {
+  float: left;
+  margin-top: 180px;
+}
+#next {
+  float: right;
+  margin-top: 180px;
+}
+.images {
+  float: left;
+}
